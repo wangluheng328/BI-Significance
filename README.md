@@ -1,7 +1,6 @@
-# BA-Significance
+# BI-Significance
 
-We explore the significance of bidirectional architecure (BA) in classificaation tasks. Model used: LSTM and BiLSTM\
-
+We explore the significance of bidirectional input (BI) in classificaation tasks. Model used: LSTM
 All four used LSTM
 
 original - I am fine\
